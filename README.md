@@ -28,7 +28,7 @@ PRIOR HISTORY:
 
 Project 5723 : 10 MW Biomass based Power Plant by Sanjog Sugars & Eco-Power Private Limited
 
-cdm rEGISTRY lINK: https://cdm.unfccc.int/Projects/DB/LRQA%20Ltd1327658707.14/view
+CDM Registry Link: https://cdm.unfccc.int/Projects/DB/LRQA%20Ltd1327658707.14/view
 
 Sectoral scopes	1 : Energy industries (renewable - / non-renewable sources)
 Activity Scale	SMALL
