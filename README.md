@@ -37,7 +37,7 @@ Methodologies Used	AMS-I.D. ver. 16 - Grid connected renewable electricity gener
 
 Standardized baselines used	N/A
 
-Registration Date	13 Feb 12 (Date of registration action 16 Apr 12)   (view history)   completeness check: complete info & rep check: concluded
+Registration Date	13 Feb 12 (Date of registration action 16 Apr 12)   
 
 Crediting Period	13 Feb 12 - 12 Feb 22 (Fixed)
 __________
