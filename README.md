@@ -54,3 +54,81 @@ In the 2021-2023 vintage, to use the 0.9 tCO2/MWh UCR grid emission factor for t
 
 In the 2024 vintage, to use revised UCR emission factor of  0.757 tCO2/MWh as updated by UCR (link to update: https://medium.com/@UniversalCarbonRegistry/ucr-cou-standard-update-2024-vintage-ucr-indian-grid-emission-factor-announced-ddb790cdc603).
 ____________
+ISSUANCE DATE: 06/02/2025
+
+QTY: 473966 CoUs
+
+Period: 2013-2024
+_____________
+Serial Number: 0001-000001-005547-UCR-CoU-IN-494-01012013-31122013
+
+Vintage Year: 2013
+
+Quantity: 5547
+_________
+Serial Number: 0001-005548-008286-UCR-CoU-IN-494-01012014-31122014
+
+Vintage Year: 2014
+
+Quantity: 2739
+_________
+Serial Number: 0001-008287-010705-UCR-CoU-IN-494-01012015-31122015
+
+Vintage Year: 2015
+
+Quantity: 2419
+_________
+Serial Number: 0001-010706-060428-UCR-CoU-IN-494-01012016-31122016
+
+Vintage Year: 2016
+
+Quantity: 49723
+__________
+Serial Number: 0001-060429-113859-UCR-CoU-IN-494-01012017-31122017
+
+Vintage Year: 2017
+
+Quantity: 53431
+_________
+Serial Number: 0001-113860-165511-UCR-CoU-IN-494-01012018-31122018
+
+Vintage Year: 2018
+
+Quantity: 51652
+___________
+Serial Number: 0001-165512-216125-UCR-CoU-IN-494-01012019-31122019
+
+Vintage Year: 2019
+
+Quantity: 50614
+__________
+Serial Number: 0001-216126-270601-UCR-CoU-IN-494-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity: 54476
+__________
+Serial Number: 0001-270602-323031-UCR-CoU-IN-494-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 52430
+___________
+Serial Number: 0001-323032-376355-UCR-CoU-IN-494-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 53324
+______________
+Serial Number: 0001-376356-424737-UCR-CoU-IN-494-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 48382
+_____________
+Serial Number: 0001-424738-473966-UCR-CoU-IN-494-01012024-31122024
+
+Vintage Year: 2024
+
+Quantity: 49229
+________
