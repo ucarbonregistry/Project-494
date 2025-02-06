@@ -48,9 +48,9 @@ ___________
 ISSUANCE CONDITIONS UCR: 
 Issuance starts from 01/01/2013 and not prior.
 
-Since the PP has already registered under the CDM and has reported to the CDM an emission factor of 0.84 tCO2/MWh for the period 2012-2020 (link: https://cdm.unfccc.int/UserManagement/FileStorage/R68WD71BK4QM3YC5LNXZHIJ0UOSAGP) kindly use the same for the calculation for the credits in the said period (most conservative estimate UCR principle).
+Since the PP has already registered under the CDM and has reported to the CDM an emission factor of 0.84 tCO2/MWh for the period 2012-2020 (link: https://cdm.unfccc.int/UserManagement/FileStorage/R68WD71BK4QM3YC5LNXZHIJ0UOSAGP) permitted to use the same for the calculation for the credits in the said period (most conservative estimate UCR principle).
 
-If issuing credits in the 2021-2023 vintage, to use the 0.9 tCO2/MWh UCR grid emission factor for the same.
+In the 2021-2023 vintage, to use the 0.9 tCO2/MWh UCR grid emission factor for the same.
 
-If issuing for the 2024 vintage, please use the revised UCR emission factor of  0.757 tCO2/MWh as updated by UCR (link to update: https://medium.com/@UniversalCarbonRegistry/ucr-cou-standard-update-2024-vintage-ucr-indian-grid-emission-factor-announced-ddb790cdc603).
+In the 2024 vintage, to use revised UCR emission factor of  0.757 tCO2/MWh as updated by UCR (link to update: https://medium.com/@UniversalCarbonRegistry/ucr-cou-standard-update-2024-vintage-ucr-indian-grid-emission-factor-announced-ddb790cdc603).
 ____________
